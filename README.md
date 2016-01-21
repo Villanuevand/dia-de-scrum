@@ -26,6 +26,7 @@ Ahora, quiero llevar un paso más allá ese conversatorio que empezó en el Agil
       - [SCRUM Master](#scrum-master)
       - [Team](#team)
     - [Ceremonias](#ceremonias)
+      - [Release Planning](#release-planning)
       - [Sprint Planinng](#sprint-planinng)
       - [Daily Meeting](#daily-meeting)
       - [Review](#review)
