@@ -12,6 +12,65 @@ Acompañado por uno de los exponentes más reconocidos en el mundo ágil de Vene
 
 Ahora, quiero llevar un paso más allá ese conversatorio que empezó en el Agil Weekend,y construir una actividad que de un primer sabor de boca a aquellos que quieren adentrarse en el mundo de la agilidad, y más especifícamente en el mundo de *SCRUM* acá un ...
 
-##### Día de SCRUM. 
+##### Día de SCRUM....
+---
 
+- [Agilidad](#agilidad)
+  - [Manifiesto Agil](#manifiesto-ágil)
+- [SCRUM](#scrum)
+  - [Historia](#historia)
+  - [Scrum Alliance](#scrum-alliance)
+  - [El marco SCRUM](#el-marco-scrum)
+    - [Roles](#roles)
+      - [Product Owner](#product-owner)
+      - [SCRUM Master](#scrum-master)
+      - [Team](#team)
+    - [Ceremonias](#ceremonias)
+      - [Sprint Planinng](#sprint-planinng)
+      - [Daily Meeting](#daily-meeting)
+      - [Review](#review)
+      - [Retrospective](#retrospective)
+    - [Artefactos](#artefactos)
+      - [Producto Backlog](#product-backlog)
+      - [Sprint Backlog](#sprint-backlog)
+  - [Claves para la Ágilidad](#claves-para-la-agilidad)
+  - [Retrospective](#retrospective)
 
+## Agilidad
+lorem ipsum dolor sit
+### Manifiesto Ágil
+lorem ipsum dolor sit
+## SCRUM
+lorem ipsum dolor sit
+###Historia
+lorem ipsum dolor sit
+###Scrum Alliance
+lorem ipsum dolor sit
+### El marco SCRUM
+lorem ipsum dolor sit
+#### Roles
+lorem ipsum dolor sit
+##### Product Owner
+lorem ipsum dolor sit
+##### SCRUM Master
+lorem ipsum dolor sit
+##### Team
+lorem ipsum dolor sit
+#### Ceremonias
+lorem ipsum dolor sit
+##### Sprint Planinng
+lorem ipsum dolor sit
+##### Daily Meeting
+lorem ipsum dolor sit
+##### Review
+lorem ipsum dolor sit
+##### Retrospective
+lorem ipsum dolor sit
+#### Artefactos
+lorem ipsum dolor sit
+##### Product Backlog
+lorem ipsum dolor st
+##### Sprint Backlog
+lorem ipsum dolor st
+## Claves para la Agilidad
+## Retrospective
