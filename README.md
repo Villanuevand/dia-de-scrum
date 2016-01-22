@@ -38,7 +38,8 @@ Ahora, quiero llevar un paso más allá ese conversatorio que empezó en el Agil
   - [Retrospective](#retrospective)
 
 ## Agilidad
-lorem ipsum dolor sit
+Agilidad es un concepto que procede del vocablo latino *agilĭtas* y que alude a la condición de ágil. Este término (ágil), proveniente del latín *agĭlis*, refiere a quien puede usar su cuerpo con destreza o aptitud, y del sufijo abstracto “idad” que indica *cualidad de*.
+
 ### Manifiesto Ágil
 lorem ipsum dolor sit
 ## SCRUM
