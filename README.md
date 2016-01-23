@@ -41,6 +41,9 @@ Ahora, quiero llevar un paso más allá ese conversatorio que empezó en el Agil
 Agilidad es un concepto que procede del vocablo latino *agilĭtas* y que alude a la condición de ágil. Este término (ágil), proveniente del latín *agĭlis*, refiere a quien puede usar su cuerpo con destreza o aptitud, y del sufijo abstracto “idad” que indica *cualidad de*.
 
 ### Manifiesto Ágil
+Para el día 17 febrero del 2001, un grupo de críticos de los modelos de desarrollo de software basado en procesos, se reunieron en [Snowbird, Utah](https://www.google.com.ar/maps/place/Snowbird,+UT+84092,+EE.+UU./@40.5818939,-111.6639572,15z/data=!3m1!4b1!4m2!3m1!1s0x87527085d07fe1bb:0xb6b6f8f78ca7f01f) convocados por Kent Beck,  para tratar sobre técnicas y procesos para el desarrollo de software. En esa reunión se nombra por primera vez el término *"Métodos Ágiles"* para definir a los métodos que estaban surgiendo como alternativa  a las metodologías formales, las cuales se consideraban rígidas.
+
+Los 17 integrantes de esta reunión, resumieron los principios sobre los que se basan los métodos alternativos en cuatro postulados, lo que ha quedado denominado como __Manifiesto Ágil__.
 ![Manifiesto Ágil](http://drive.google.com/uc?export=view&id=0ByoQ8u8IrvxGXzlmc2FrR3hDSVE)
 ## SCRUM
 lorem ipsum dolor sit
