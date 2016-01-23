@@ -49,7 +49,7 @@ lorem ipsum dolor sit
 ###Scrum Alliance
 lorem ipsum dolor sit
 ### El marco SCRUM
-lorem ipsum dolor sit
+![SCRUM Framework](https://www.scrumalliance.org/scrum/media/ScrumAllianceMedia/PageGraphics/ScrumExplained-4-620.jpg)
 #### Roles
 lorem ipsum dolor sit
 ##### Product Owner
