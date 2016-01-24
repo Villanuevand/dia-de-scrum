@@ -35,7 +35,6 @@ Ahora, quiero llevar un paso más allá ese conversatorio que empezó en el Agil
       - [Producto Backlog](#product-backlog)
       - [Sprint Backlog](#sprint-backlog)
   - [Claves para la Ágilidad](#claves-para-la-agilidad)
-  - [Retrospective](#retrospective)
 
 ## Agilidad
 Agilidad es un concepto que procede del vocablo latino *agilĭtas* y que alude a la condición de ágil. Este término (ágil), proveniente del latín *agĭlis*, refiere a quien puede usar su cuerpo con destreza o aptitud, y del sufijo abstracto “idad” que indica *cualidad de*.
@@ -78,4 +77,4 @@ lorem ipsum dolor st
 ##### Sprint Backlog
 lorem ipsum dolor st
 ## Claves para la Agilidad
-## Retrospective
+
